@@ -1,0 +1,28 @@
+WORKOUT HELPER HELP
+
+Hello and welcome to the Help File!
+If you are having trouble navigating this file, follow the following instructions:
+
+1. Login using your username and password.
+
+2. Create an account if you are a new user.
+
+3. Select Find Exercises.
+
+4. Enter:
+- Arms
+- Legs
+- Chest
+- Core
+- Back
+Or press the equivalent muscle on the diagram.
+
+5. Click Search.
+
+6. Workout plans are available from the Home screen.
+
+7. View the usage graph to see how often the program has been opened.
+
+8. Change your password from the Home screen.
+
+9. Click the muscle images to quickly view exercises.
